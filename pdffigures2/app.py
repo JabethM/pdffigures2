@@ -30,7 +30,7 @@ async def extract_figures(file: UploadFile = File(...), file_name:str = Form(...
     # Run pdffigures2
     result = subprocess.run([
         "sbt", 
-        f"runMain org.allenai.pdffigures2.FigureExtractorBatchCli {input_path} -m {output_dir}/mmd -d {output_dir}/figures"
+        f"runMain org.allenai.pdffigures2.FigureExtractorBatchCli {input_path} -m {output_dir}/figures -d {output_dir}/mmd"
     ], cwd="/app/pdffigures2", capture_output=True, text=True)
 
     if result.returncode != 0:
