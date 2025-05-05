@@ -1,0 +1,161 @@
+[{
+  "caption": "FIG. 6. Winding number of regular helical states versus the phase shift ω0τ , for two different initial phase distributions (a) non-zero widing number with r = 0 for τ = 0, and (b) zero widing number with r = 1 for τ = 0. The size of the network is N = 1000, its degree is k = 10 and the intrinsic angular velocity of the oscillators is ω0 = π/2.",
+  "captionBoundary": {
+    "x1": 53.999969482421875,
+    "x2": 562.09423828125,
+    "y1": 263.1617736816406,
+    "y2": 291.0670166015625
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "6",
+  "page": 5,
+  "regionBoundary": {
+    "x1": 60.96,
+    "x2": 555.36,
+    "y1": 51.839999999999996,
+    "y2": 249.12
+  },
+  "renderDpi": 150,
+  "renderURL": "../out/prefix2502.00884-Figure6-1.png"
+}, {
+  "caption": "FIG. 7. (Color online) Probability density of of the correlation matrix elements for ω0τ = a) 0, b) 1.6, c) 1.9, d) 2.04, e) 2.2, f) 3.92, g) 4.08, h) 4.9. The size of the network is N = 1000, its degree is k = 10 and the intrinsic angular velocity of the oscillators is ω0 = π/2.",
+  "captionBoundary": {
+    "x1": 54.0,
+    "x2": 562.0950317382812,
+    "y1": 523.9057006835938,
+    "y2": 541.3499755859375
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "7",
+  "page": 5,
+  "regionBoundary": {
+    "x1": 53.76,
+    "x2": 563.04,
+    "y1": 304.8,
+    "y2": 509.28
+  },
+  "renderDpi": 150,
+  "renderURL": "../out/prefix2502.00884-Figure7-1.png"
+}, {
+  "caption": "FIG. 8. (Color online)Temporal evolution of the local order parameter with 50 neighbors for (a) ω0τ = 1.84, and (b) 1.85. The size of the network is N = 1000, its degree is k = 10 and the intrinsic angular velocity of the oscillators is ω0 = π/2.",
+  "captionBoundary": {
+    "x1": 54.0,
+    "x2": 562.0911254882812,
+    "y1": 263.1617736816406,
+    "y2": 280.60601806640625
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "8",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 60.96,
+    "x2": 555.36,
+    "y1": 51.839999999999996,
+    "y2": 249.12
+  },
+  "renderDpi": 150,
+  "renderURL": "../out/prefix2502.00884-Figure8-1.png"
+}, {
+  "caption": "FIG. 9. (Color online) g0(t) versus time step sumulation after reaching the stationary state and h0 for (a): τ = 1.84, and (b): τ = 1.85.",
+  "captionBoundary": {
+    "x1": 66.60399627685547,
+    "x2": 546.7109985351562,
+    "y1": 506.3007507324219,
+    "y2": 513.2850341796875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "9",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 60.96,
+    "x2": 555.36,
+    "y1": 294.71999999999997,
+    "y2": 492.0
+  },
+  "renderDpi": 150,
+  "renderURL": "../out/prefix2502.00884-Figure9-1.png"
+}, {
+  "caption": "FIG. 2. (Color online) (a): Long-time averaged angular velocity of oscillators Ω, and (b) long-time averaged order parameter (r∞) versus ω0τ . The size of the network is N = 1000, its degree is k = 10 and the intrinsic angular velocity of the oscillators is ω0 = π/2. In both panels, the blue dots denote the results of realizations with 100 different random initial phase distributions. The open circles in panel (b) denote the average of r∞ over the 100 realizations and the error bars show the standard error of means.",
+  "captionBoundary": {
+    "x1": 53.99993896484375,
+    "x2": 562.0989990234375,
+    "y1": 281.6757507324219,
+    "y2": 319.8059997558594
+  },
+  "figType": "Figure",
+  "imageText": ["4", "(a)", "(b)"],
+  "name": "2",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 60.96,
+    "x2": 562.56,
+    "y1": 29.279999999999998,
+    "y2": 264.96
+  },
+  "renderDpi": 150,
+  "renderURL": "../out/prefix2502.00884-Figure2-1.png"
+}, {
+  "caption": "FIG. 3. (Color online) The probability density function of the angular velocity, p(θ̇), for ω0τ = a) 0, b) 1.6, c) 1.9, d) 2.04, e) 2.2, f) 3.92, g) 4.08, h) 4.9. The size of the network is N = 1000, its degree is k = 10 and the intrinsic angular velocity of the oscillators is ω0 = π/2.",
+  "captionBoundary": {
+    "x1": 54.0,
+    "x2": 562.0943603515625,
+    "y1": 552.5807495117188,
+    "y2": 570.0250244140625
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "3",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 53.76,
+    "x2": 563.04,
+    "y1": 333.59999999999997,
+    "y2": 538.0799999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "../out/prefix2502.00884-Figure3-1.png"
+}, {
+  "caption": "FIG. 4. Time evolution of angular velocity of the oscillators in a time window for ω0τ = a) 0, b) 1.6, c) 1.9, d) 2.04, e) 2.2, f) 3.92, g) 4.08, h) 4.9. The size of the network is N = 1000, its degree is k = 10 and the intrinsic angular velocity of the oscillators is ω0 = π/2.",
+  "captionBoundary": {
+    "x1": 54.0,
+    "x2": 562.0909423828125,
+    "y1": 270.3057556152344,
+    "y2": 287.75
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "4",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 53.76,
+    "x2": 563.04,
+    "y1": 51.839999999999996,
+    "y2": 256.32
+  },
+  "renderDpi": 150,
+  "renderURL": "../out/prefix2502.00884-Figure4-1.png"
+}, {
+  "caption": "FIG. 5. (Color online) Density plot of the correlation matrix elements for ω0τ = a) 0, b) 1.6, c) 1.9, d) 2.04, e) 2.2, f) 3.92, g) 4.08, h) 4.9. The size of the network is N = 1000, its degree is k = 10 and the intrinsic angular velocity of the oscillators is ω0 = π/2.",
+  "captionBoundary": {
+    "x1": 54.0,
+    "x2": 562.0948486328125,
+    "y1": 520.5897216796875,
+    "y2": 538.0330200195312
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "5",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 53.76,
+    "x2": 563.04,
+    "y1": 301.92,
+    "y2": 506.4
+  },
+  "renderDpi": 150,
+  "renderURL": "../out/prefix2502.00884-Figure5-1.png"
+}]
